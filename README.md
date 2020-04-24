@@ -3,6 +3,7 @@
 
 Arquivos:
 ICV4ATT2.R : É o código em R utilizado para realizar o processo técnico do estudo
+
 SI_V1.docx : É um arquivo word com explicações e interpretações detalhadas sobre cada etapa do estudo
 
 Andamento do Projeto:
